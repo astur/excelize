@@ -25,7 +25,7 @@ excelize(obj, path, file, sheet, cb);
 ## Example
 
 ```js
-excelize = require('excelize');
+var excelize = require('excelize');
 
 var testObj = [
     {name: 'Alice', age: '20'},

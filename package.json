@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "excelize",
   "version": "0.0.1",
   "description": "Save array of similar objects to MS Excel sheet",
