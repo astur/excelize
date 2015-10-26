@@ -4,7 +4,6 @@ function excelize(obj, path, file, sheet, cb){
     var titles = Object.keys(obj[0]);
     var width = titles.length;
     var height = obj.length;
-    console.log([titles,width,height]);
     var workbook = excelbuilder.createWorkbook(path, file);
     var sht = workbook.createSheet(sheet, width, height+1);
     var i, j, k;
