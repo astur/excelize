@@ -1,6 +1,6 @@
 {
   "name": "excelize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Save array of similar objects to MS Excel sheet",
   "main": "index.js",
   "scripts": {
